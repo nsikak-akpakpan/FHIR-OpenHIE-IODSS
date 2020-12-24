@@ -1,2 +1,2 @@
-# FHIR-OpenHIE-IODSS
-multi-standards interoperabilty and analytics repo
+# FHIR-OpenHIE-IO-DSS
+multi-standards interoperabilty and analytics repository
